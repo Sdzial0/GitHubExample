@@ -1,0 +1,1 @@
+@property (strong, nonatomic) UILabel *label2; 
